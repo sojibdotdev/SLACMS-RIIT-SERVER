@@ -1,0 +1,135 @@
+[
+  {
+    "_id": {
+      "$oid": "66bcbf3707548ffd7f5d808e"
+    },
+    "id": "6f02b2af-2228-4f88-a017-710ae6463b4e",
+    "contact": {
+      "fristName": "Md Shobuj",
+      "surName": "Sorkar",
+      "profession": "Full Stack Web Developer",
+      "city": "Bogura",
+      "country": "Bangladesh",
+      "phone": "01309919260",
+      "email": "md.shobuj.developer@gmail.com",
+      "linkeind": "https://fkhadra.github.io/react-toastify/introduction/",
+      "protfolio": "https://fkhadra.github.io/react-toastify/introduction/",
+      "github": "https://fkhadra.github.io/react-toastify/introduction/",
+      "_id": {
+        "$oid": "66bcf4c964fcd8bdef16975d"
+      }
+    },
+    "object": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries,",
+    "education": {
+      "instituteName": "dhaka college",
+      "location": "dhaka",
+      "degree": "Diploma In Computer Science",
+      "graduationStartDate": "2024-08-16",
+      "graduationEndDate": "2024-08-20",
+      "_id": {
+        "$oid": "66bcf4ec64fcd8bdef169760"
+      }
+    },
+    "skills": {
+      "expertise": ["JavaScript", "Java", "C++", "C#"],
+      "comfortable": ["Python", "C++", "C#", "Java"],
+      "tools": ["Sublime Text", "Visual Studio Code", "Eclipse"],
+      "_id": {
+        "$oid": "66bcf4fa64fcd8bdef169762"
+      }
+    },
+    "projects": {
+      "project_1": {
+        "projectName": "Dream Lead Agency",
+        "liveLink": "https://chatgpt.com/c/bbe6e77c-e775-4c5a-94ac-2c6a66ef760e",
+        "frontendRepoLink": "https://chatgpt.com/c/bbe6e77c-e775-4c5a-94ac-2c6a66ef760e",
+        "backendRepoLink": "https://chatgpt.com/c/bbe6e77c-e775-4c5a-94ac-2c6a66ef760e",
+        "discription": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries,",
+        "utilizedTechnologies": [
+          "Python",
+          "Java",
+          "C++",
+          "C#",
+          "Ruby",
+          "Go",
+          "PHP"
+        ],
+        "keyAttributes": [
+          "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has ",
+          "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has ",
+          "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has "
+        ],
+        "_id": {
+          "$oid": "66bcf57964fcd8bdef169765"
+        }
+      },
+      "project_2": {
+        "projectName": "RecalmTrip",
+        "liveLink": "https://chatgpt.com/c/bbe6e77c-e775-4c5a-94ac-2c6a66ef760e",
+        "frontendRepoLink": "https://chatgpt.com/c/bbe6e77c-e775-4c5a-94ac-2c6a66ef760e",
+        "backendRepoLink": "https://chatgpt.com/c/bbe6e77c-e775-4c5a-94ac-2c6a66ef760e",
+        "discription": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries,",
+        "utilizedTechnologies": [
+          "JavaScript",
+          "Java",
+          "Python",
+          "C++",
+          "C#",
+          "Go",
+          "Swift",
+          "PHP",
+          "Kotlin",
+          "Lodash"
+        ],
+        "keyAttributes": [
+          "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has ",
+          "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has ",
+          "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has "
+        ],
+        "_id": {
+          "$oid": "66bcf57964fcd8bdef169766"
+        }
+      },
+      "project_3": {
+        "projectName": "DLS LTD",
+        "liveLink": "https://chatgpt.com/c/bbe6e77c-e775-4c5a-94ac-2c6a66ef760e",
+        "frontendRepoLink": "https://chatgpt.com/c/bbe6e77c-e775-4c5a-94ac-2c6a66ef760e",
+        "backendRepoLink": "https://chatgpt.com/c/bbe6e77c-e775-4c5a-94ac-2c6a66ef760e",
+        "discription": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries,",
+        "utilizedTechnologies": [
+          "JavaScript",
+          "Java",
+          "C++",
+          "C#",
+          "Ruby",
+          "Go",
+          "Swift",
+          "PHP"
+        ],
+        "keyAttributes": [
+          "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has ",
+          "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has ",
+          "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has "
+        ],
+        "_id": {
+          "$oid": "66bcf57964fcd8bdef169767"
+        }
+      },
+      "_id": {
+        "$oid": "66bcf57964fcd8bdef169764"
+      }
+    },
+    "languages": {
+      "bangla": 50,
+      "english": 90,
+      "hindi": 100,
+      "_id": {
+        "$oid": "66bd00c464fcd8bdef169785"
+      }
+    },
+    "createdOn": {
+      "$date": "2024-08-13T18:00:00.000Z"
+    },
+    "__v": 0
+  }
+]

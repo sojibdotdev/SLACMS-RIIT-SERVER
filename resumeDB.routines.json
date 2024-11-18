@@ -1,0 +1,365 @@
+[{
+  "_id": {
+    "$oid": "66bd1d672a8963849ffe4435"
+  },
+  "id": "928d0f8b-3f29-4180-bfef-366571110ce9",
+  "instituteInfo": {
+    "instituteName": "Bogra Polytechnic Institute",
+    "location": "Bogura",
+    "instituteCode": "123131",
+    "clssStartDate": "2024-08-20",
+    "technology": "computer_technology",
+    "semester": "4th",
+    "_id": {
+      "$oid": "66be4877e3cf1e41ccff4918"
+    }
+  },
+  "classPeriods": [
+    {
+      "periodName": "1",
+      "classStartTime": "10:00",
+      "classEndTime": "10:30",
+      "_id": {
+        "$oid": "66be4904e3cf1e41ccff4928"
+      }
+    },
+    {
+      "periodName": "2",
+      "classStartTime": "10:30",
+      "classEndTime": "11:00",
+      "_id": {
+        "$oid": "66be4904e3cf1e41ccff4929"
+      }
+    },
+    {
+      "periodName": "3",
+      "classStartTime": "11:00",
+      "classEndTime": "11:30",
+      "_id": {
+        "$oid": "66be4904e3cf1e41ccff492a"
+      }
+    },
+    {
+      "periodName": "4",
+      "classStartTime": "11:30",
+      "classEndTime": "00:00",
+      "_id": {
+        "$oid": "66be4904e3cf1e41ccff492b"
+      }
+    },
+    {
+      "periodName": "5",
+      "classStartTime": "12:00",
+      "classEndTime": "12:30",
+      "_id": {
+        "$oid": "66be4904e3cf1e41ccff492c"
+      }
+    }
+  ],
+  "weeklyRoutine": [
+    {
+      "day": "Sunday",
+      "periods": [
+        {
+          "period": "1",
+          "classStartTime": "10:00",
+          "classEndTime": "10:30",
+          "subjectName": "MA",
+          "subjectCode": "101",
+          "roomNumber": "4001",
+          "teacherName": "KA",
+          "phoneNumber": "01300000000",
+          "_id": {
+            "$oid": "66be4a76e3cf1e41ccff493f"
+          }
+        },
+        {
+          "period": "2",
+          "classStartTime": "10:30",
+          "classEndTime": "11:00",
+          "subjectName": "EN",
+          "subjectCode": "102",
+          "roomNumber": "4002",
+          "teacherName": "MJ",
+          "phoneNumber": "01300000000",
+          "_id": {
+            "$oid": "66be4a76e3cf1e41ccff4940"
+          }
+        },
+        {
+          "period": "3",
+          "classStartTime": "11:00",
+          "classEndTime": "11:30",
+          "subjectName": "ICT",
+          "subjectCode": "109",
+          "roomNumber": "5001",
+          "teacherName": "NJ",
+          "phoneNumber": "01300000000",
+          "_id": {
+            "$oid": "66be4a76e3cf1e41ccff4941"
+          }
+        },
+        {
+          "period": "5",
+          "classStartTime": "12:00",
+          "classEndTime": "12:30",
+          "subjectName": "GK",
+          "subjectCode": "303",
+          "roomNumber": "4007",
+          "teacherName": "LHJ",
+          "phoneNumber": "01300000000",
+          "_id": {
+            "$oid": "66be4a76e3cf1e41ccff4942"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "66bd1d672a8963849ffe4439"
+      }
+    },
+    {
+      "day": "Monday",
+      "periods": [
+        {
+          "period": "1",
+          "classStartTime": "10:00",
+          "classEndTime": "10:30",
+          "subjectName": "MA",
+          "subjectCode": "101",
+          "roomNumber": "4001",
+          "teacherName": "KA",
+          "phoneNumber": "01300000000",
+          "_id": {
+            "$oid": "66be4a76e3cf1e41ccff493f"
+          }
+        },
+        {
+          "period": "2",
+          "classStartTime": "10:30",
+          "classEndTime": "11:00",
+          "subjectName": "EN",
+          "subjectCode": "102",
+          "roomNumber": "4002",
+          "teacherName": "MJ",
+          "phoneNumber": "01300000000",
+          "_id": {
+            "$oid": "66be4a76e3cf1e41ccff4940"
+          }
+        },
+        {
+          "period": "3",
+          "classStartTime": "11:00",
+          "classEndTime": "11:30",
+          "subjectName": "ICT",
+          "subjectCode": "109",
+          "roomNumber": "5001",
+          "teacherName": "NJ",
+          "phoneNumber": "01300000000",
+          "_id": {
+            "$oid": "66be4a76e3cf1e41ccff4941"
+          }
+        },
+        {
+          "period": "4",
+          "classStartTime": "11:30",
+          "classEndTime": "12:00",
+          "subjectName": "GK",
+          "subjectCode": "303",
+          "roomNumber": "4007",
+          "teacherName": "LHJ",
+          "phoneNumber": "01300000000",
+          "_id": {
+            "$oid": "66be4a76e3cf1e41ccff4942"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "66bd1d672a8963849ffe443b"
+      }
+    },
+    {
+      "day": "Tuesday",
+      "periods": [
+        {
+          "period": "1",
+          "classStartTime": "10:00",
+          "classEndTime": "10:30",
+          "subjectName": "MA",
+          "subjectCode": "101",
+          "roomNumber": "4001",
+          "teacherName": "KA",
+          "phoneNumber": "01300000000",
+          "_id": {
+            "$oid": "66be4a76e3cf1e41ccff493f"
+          }
+        },
+        {
+          "period": "2",
+          "classStartTime": "10:30",
+          "classEndTime": "11:00",
+          "subjectName": "EN",
+          "subjectCode": "102",
+          "roomNumber": "4002",
+          "teacherName": "MJ",
+          "phoneNumber": "01300000000",
+          "_id": {
+            "$oid": "66be4a76e3cf1e41ccff4940"
+          }
+        },
+        {
+          "period": "4",
+          "classStartTime": "11:30",
+          "classEndTime": "12:00",
+          "subjectName": "ICT",
+          "subjectCode": "109",
+          "roomNumber": "5001",
+          "teacherName": "NJ",
+          "phoneNumber": "01300000000",
+          "_id": {
+            "$oid": "66be4a76e3cf1e41ccff4941"
+          }
+        },
+        {
+          "period": "5",
+          "classStartTime": "12:00",
+          "classEndTime": "12:30",
+          "subjectName": "GK",
+          "subjectCode": "303",
+          "roomNumber": "4007",
+          "teacherName": "LHJ",
+          "phoneNumber": "01300000000",
+          "_id": {
+            "$oid": "66be4a76e3cf1e41ccff4942"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "66bd1d672a8963849ffe443d"
+      }
+    },
+    {
+      "day": "Wednesday",
+      "periods": [
+        {
+          "period": "1",
+          "classStartTime": "10:00",
+          "classEndTime": "10:30",
+          "subjectName": "MA",
+          "subjectCode": "101",
+          "roomNumber": "4001",
+          "teacherName": "KA",
+          "phoneNumber": "01300000000",
+          "_id": {
+            "$oid": "66be4a76e3cf1e41ccff493f"
+          }
+        },
+        {
+          "period": "2",
+          "classStartTime": "10:30",
+          "classEndTime": "11:00",
+          "subjectName": "EN",
+          "subjectCode": "102",
+          "roomNumber": "4002",
+          "teacherName": "MJ",
+          "phoneNumber": "01300000000",
+          "_id": {
+            "$oid": "66be4a76e3cf1e41ccff4940"
+          }
+        },
+        {
+          "period": "3",
+          "classStartTime": "11:00",
+          "classEndTime": "11:30",
+          "subjectName": "ICT",
+          "subjectCode": "109",
+          "roomNumber": "5001",
+          "teacherName": "NJ",
+          "phoneNumber": "01300000000",
+          "_id": {
+            "$oid": "66be4a76e3cf1e41ccff4941"
+          }
+        },
+        {
+          "period": "5",
+          "classStartTime": "12:00",
+          "classEndTime": "12:30",
+          "subjectName": "GK",
+          "subjectCode": "303",
+          "roomNumber": "4007",
+          "teacherName": "LHJ",
+          "phoneNumber": "01300000000",
+          "_id": {
+            "$oid": "66be4a76e3cf1e41ccff4942"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "66bd1d672a8963849ffe443f"
+      }
+    },
+    {
+      "day": "Thursday",
+      "periods": [
+        {
+          "period": "1",
+          "classStartTime": "10:00",
+          "classEndTime": "10:30",
+          "subjectName": "MA",
+          "subjectCode": "101",
+          "roomNumber": "4001",
+          "teacherName": "KA",
+          "phoneNumber": "01300000000",
+          "_id": {
+            "$oid": "66be4a76e3cf1e41ccff493f"
+          }
+        },
+        {
+          "period": "3",
+          "classStartTime": "11:00",
+          "classEndTime": "11:30",
+          "subjectName": "EN",
+          "subjectCode": "102",
+          "roomNumber": "4002",
+          "teacherName": "MJ",
+          "phoneNumber": "01300000000",
+          "_id": {
+            "$oid": "66be4a76e3cf1e41ccff4940"
+          }
+        },
+        {
+          "period": "4",
+          "classStartTime": "11:30",
+          "classEndTime": "12:00",
+          "subjectName": "ICT",
+          "subjectCode": "109",
+          "roomNumber": "5001",
+          "teacherName": "NJ",
+          "phoneNumber": "01300000000",
+          "_id": {
+            "$oid": "66be4a76e3cf1e41ccff4941"
+          }
+        },
+        {
+          "period": "5",
+          "classStartTime": "12:00",
+          "classEndTime": "12:30",
+          "subjectName": "GK",
+          "subjectCode": "303",
+          "roomNumber": "4007",
+          "teacherName": "LHJ",
+          "phoneNumber": "01300000000",
+          "_id": {
+            "$oid": "66be4a76e3cf1e41ccff4942"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "66bd1d672a8963849ffe4441"
+      }
+    }
+  ],
+  "createdOn": {
+    "$date": "2024-08-14T18:00:00.000Z"
+  },
+  "__v": 0
+}]
